@@ -1,4 +1,4 @@
-# Malware Database
+# Primary README.MD Template
 ### Disclaimer
 Disclamer Alert Here
 
