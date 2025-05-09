@@ -37,13 +37,18 @@ Item 7 | 5%
 
 # FAQ
 
-### Here you can find answers to frequently asked questions. This may be helpful if you're a newcomer!
+### FAQ Templates
 * ❓ Question
 * 💡 Answer
 
 * ❓ What is this?
 * 💡 [Here](#Introduction)
 
+- Question 1
+> Answer
+
+- Question 1 w/ [link](example.com)
+> Answer w/ [link](codingfr.com)
 
 ### Contact
 Contact me on github or disc
