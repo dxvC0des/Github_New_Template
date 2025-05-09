@@ -47,8 +47,8 @@ Item 7 | 5%
 - Question 1
 > Answer
 
-- Question 1 w/ [link](example.com)
-> Answer w/ [link](codingfr.com)
+- Question 1 w/ [link](https://example.com)
+> Answer w/ [link](https://codingfr.com)
 
 ### Contact
 Contact me on github or disc
