@@ -38,11 +38,11 @@ Item 7 | 5%
 # FAQ
 
 ### Here you can find answers to frequently asked questions. This may be helpful if you're a newcomer!
-❓ Question
-💡 Answer
+* ❓ Question
+* 💡 Answer
 
-❓ What is this?
-💡 [Here](#Introduction)
+* ❓ What is this?
+* 💡 [Here](#Introduction)
 
 
 ### Contact
